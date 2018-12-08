@@ -1,0 +1,28 @@
+{
+"author": "ANONIMUX",
+"name": "iptv y plex @anonimux y @Clay_was de telegram",
+"image":"https://pbs.twimg.com/profile_images/984498816345878528/kICLR2lp.jpg",
+"url": "http://w3ubin.com/H1HalYFyE.w3u",
+"stations": [
+{
+"name":"iptv plex y Netflix contactar con @anonimux o Clay_was",
+"image":"https://pbs.twimg.com/profile_images/984498816345878528/kICLR2lp.jpg"
+},
+{
+"name": "BEIN LIGA",
+"image": "https://pbs.twimg.com/profile_images/984498816345878528/kICLR2lp.jpg",
+"url": "https://rebrand.ly/tumarcbaf4",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0",
+"isHost":"true",
+"online": true
+}, 
+{
+"name": "PARTIDAZO O CHAMPIONS",
+"image": "https://pbs.twimg.com/profile_images/984498816345878528/kICLR2lp.jpg",
+"url": "https://thinfi.com/6l0g",
+"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0",
+"isHost":true,
+"online": true
+}
+]
+}
